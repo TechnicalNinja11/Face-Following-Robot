@@ -1,6 +1,6 @@
 # Face-Following Robot with HuskyLens and ESP32
 
-![Robot Demo](demo.gif) *(Add a GIF/video later if possible)*
+![Robot Picture](IMG_5182.jpg) 
 
 ## 📝 Description
 A robot that detects and follows human faces using **HuskyLens** (AI camera) and **ESP32**. It uses PID control for smooth movements.
